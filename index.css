@@ -11,7 +11,7 @@ html {
 body {
     font-family: "Orbitron", system-ui, Arial, sans-serif;
     color: #f3f3f3;
-    background-image: url("paginap/img/fondomain.jpg");
+    background-image: url("/paginap/img/fondomain.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed}
@@ -220,5 +220,4 @@ nav a span {
     nav a {
         width: 94%;
     }
-
 }
