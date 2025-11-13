@@ -14,7 +14,7 @@ html {
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url("/blog/imgblog/fondorojo.jpg");
+    background-image: url("./imgblog/fondorojo.jpg"");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -454,4 +454,5 @@ footer .icons-fo:hover {
         border: none;
         border-top: 1px solid #000;
     }
+
 }
